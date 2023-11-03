@@ -1,13 +1,10 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Masters, Data Science
+  uni: Florida State University
+  year: 2023 &mdash; Present
+  Coursework: Mathematics, Introduction to Data Science, Applied Regression Methods, Machine Learning, Data Mining, Data Ethics, Professional Development Seminar, Advanced Topics in Data Science, Advanced Data Mining, Computer Security Fundamentals for Data Science, Deep and Reinforcement Learning Fundamentals.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelors, Computer Science
+  uni: Christ University
+  year: 2018 &mdash; 2022
+  Coursework:  Database Systems, Data Mining, Algorithms and Abstract Data Types, Data Structures and Algorithms (C, Java, Python), Computer Networks, Business Strategy & IS, Systems Analysis and Design, Web Development, Computer Architecture and Software Engineering. GPA - 3.85.

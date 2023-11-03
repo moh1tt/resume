@@ -1,16 +1,27 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# ChatBot
+- project: Bot - Personal Assistant
+  github: "https://github.com/moh1tt/chat-bot/tree/master"
+  description: <ul><li>Built and deployed a natural language model on render trained to make human-like conversations.</li>
+  <li>Utilized Pytorch, Python and other techniques in NLP</li>
+  <li>Implemented techniques like Lemmatization, Stemming, Bagging and Text-classification.</li></ul>
+  
+# MNIST detection using GAN’s
+- project: MNIST detection using GAN’s
+  github: "https://github.com/moh1tt/MNIST-GAN"
+  description: <ul><li>Utilized Pytorch and Pytorch-Lightning library to develop a Generative Adversarial Network.</li>
+  <li>Implemented techniques like Batch Normalization, Leaky ReLU, Adam Optimizer, Cross Entropy Loss.</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Tunes
+- project: iTunes Flask Web-App
+  github: "https://github.com/moh1tt/iTunes-Flask-App"
+  description: <ul><li>User-friendly iTunes music store to buy, sell and edit music.</li>
+  <li>Built a CRUD app as a RESTful API using Flask and SQLAlchemy. Containerized using Docker.</li></ul>
+
+# Deep Image Classifier
+- project: Deep Image Classifier
+  github: "https://github.com/moh1tt/CNN-Image-Classifier"
+  description: <ul><li>Built Image Classifier CNN using PyTorch and Transfer learning (Densenet121) with pre-trained weights. The model trained over 1000+ classes.</li>
+  <li>Created a WebApp with Flask as the backend serving the API.</li></ul>
