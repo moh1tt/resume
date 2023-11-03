@@ -4,19 +4,19 @@
 # ChatBot
 - project: Bot - Personal Assistant
   url: "https://github.com/moh1tt/chat-bot/tree/master"
-  description: <ul><li>[Github](https://github.com/moh1tt/chat-bot/tree/master)</li><li>Built and deployed a natural language model on render trained to make human-like conversations.</li><li>Utilized Pytorch, Python and other techniques in NLP</li><li>Implemented techniques like Lemmatization, Stemming, Bagging and Text-classification.</li></ul>
+  description: <ul><li>Built and deployed a natural language model on render trained to make human-like conversations.</li><li>Utilized Pytorch, Python and other techniques in NLP</li><li>Implemented techniques like Lemmatization, Stemming, Bagging and Text-classification.</li></ul>
   
 # MNIST detection using GAN’s
 - project: MNIST detection using GAN’s
   url: "https://github.com/moh1tt/MNIST-GAN"
-  description: <ul><li>[Github](https://github.com/moh1tt/MNIST-GAN)</li><li>Utilized Pytorch and Pytorch-Lightning library to develop a Generative Adversarial Network.</li><li>Implemented techniques like Batch Normalization, Leaky ReLU, Adam Optimizer, Cross Entropy Loss.</li></ul>
+  description: <ul><li>Utilized Pytorch and Pytorch-Lightning library to develop a Generative Adversarial Network.</li><li>Implemented techniques like Batch Normalization, Leaky ReLU, Adam Optimizer, Cross Entropy Loss.</li></ul>
 
 # Tunes
 - project: iTunes Flask Web-App
   url: "https://github.com/moh1tt/iTunes-Flask-App"
-  description: <ul><li>[Github](https://github.com/moh1tt/iTunes-Flask-App)</li><li>User-friendly iTunes music store to buy, sell and edit music.</li><li>Built a CRUD app as a RESTful API using Flask and SQLAlchemy. Containerized using Docker.</li></ul>
+  description: <ul><li>User-friendly iTunes music store to buy, sell and edit music.</li><li>Built a CRUD app as a RESTful API using Flask and SQLAlchemy. Containerized using Docker.</li></ul>
 
 # Deep Image Classifier
 - project: Deep Image Classifier
   url: "https://github.com/moh1tt/CNN-Image-Classifier"
-  description: <ul><li>[Github](https://github.com/moh1tt/CNN-Image-Classifier)</li><li>Built Image Classifier CNN using PyTorch and Transfer learning (Densenet121) with pre-trained weights. The model trained over 1000+ classes.</li><li>Created a WebApp with Flask as the backend serving the API.</li></ul>
+  description: <ul><li>Built Image Classifier CNN using PyTorch and Transfer learning (Densenet121) with pre-trained weights. The model trained over 1000+ classes.</li><li>Created a WebApp with Flask as the backend serving the API.</li></ul>
